@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently studying computer science.
+i'm learning c++, so if you're good at it, i wouldn't say no to some help.
 <!--
 **Ayonokojii/Ayonokojii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
